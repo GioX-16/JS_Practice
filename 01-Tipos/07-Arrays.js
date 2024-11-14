@@ -10,7 +10,7 @@ console.log(animales[1]);
 animales[10] = 'pez';
 console.log(animales[7]);
 console.log(typeof animales);
-console.log(animales.length);
+console.log(animales.length);   
 
 // TENEMOS QUE SEGUIR LA CORREECTA SECUENCIA DE LOS ARRAYS OSEA EL ORDEN CORRECTO
 
