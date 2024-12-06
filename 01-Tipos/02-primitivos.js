@@ -1,3 +1,4 @@
+
 // primer dato primitivo
 
 let numero = 1;  // sin comillas simples // PRIMITIVO(NUMBER)
