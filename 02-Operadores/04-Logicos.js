@@ -17,9 +17,9 @@ console.log('operador or', mayor2 || suscrito2); // true
 // Operador NOT (!) - Devuelve true si el operando es false
 
 let mayor3 = false;
-let suscrito3 = true;
+let suscrito3 = true;   
 
-console.log('operador not', !mayor3); // true
+console.log('operador not', !mayor3); // true   
 
 
 
