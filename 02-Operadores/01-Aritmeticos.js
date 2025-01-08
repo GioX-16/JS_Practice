@@ -21,3 +21,9 @@ console.log(--a);
 console.log(a--);
 console.log(a);
 
+
+// Otros ejemplos de incrementos y decrementos
+
+let c = 5;
+let d = 5; 
+console.log(c++, 'Post incremento');
