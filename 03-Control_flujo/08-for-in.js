@@ -1,13 +1,16 @@
 let user = {
     id: 1,
-    name: 'John',
-    age: 25,
-};
+    name: 'Gio',
+    age: 23,
+} ;
 
 for (let prop in user) {
-    console.log(prop, user[prop]);
+    console.log(prop, user [prop]);
 }
 
-// id 1 // prop es el nombre de la propiedad
 
-// aqui estamos trabajando con un objeto, y no con un array
+let animales = ['perro', 'gato', 'pez', 'loro'];
+for (let indice in animales) {
+    console.log(indice, animales[indice]);
+
+}
