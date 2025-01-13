@@ -12,6 +12,7 @@ while (i < 20){
         break;
     }
 
+    
 
     console.log(i);
 }
