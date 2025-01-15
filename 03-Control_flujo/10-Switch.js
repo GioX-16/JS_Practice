@@ -42,3 +42,5 @@ switch (dia) {
         console.log('No es un día de la semana');
         break;
 }
+
+// En este ejemplo se imprime el día de la semana según el número que se le asigne a la variable dia.
