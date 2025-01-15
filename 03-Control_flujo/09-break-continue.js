@@ -1,5 +1,4 @@
-let i=0;
-
+let  i = 0;
 
 while (i < 20){   // este WHILE es un bucle que se ejecuta mientras la condición sea verdadera.
     i++;
@@ -8,13 +7,14 @@ while (i < 20){   // este WHILE es un bucle que se ejecuta mientras la condició
         continue;
     } 
 
-    if ( i === 10){
+    if ( i === 19){
         break;
     }
 
-    
+    // Esta cuenta nos lleva a 10,
+    //  pero no se imprime porque se rompe el bucle con el break
 
-    console.log(i);
+    console.log("Estos son los numeros", i);
 }
 
 // que lo que pa no perder la racha!! 
