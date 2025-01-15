@@ -1,7 +1,7 @@
 let i=0;
 
 
-while (i < 20){
+while (i < 20){   // este WHILE es un bucle que se ejecuta mientras la condición sea verdadera.
     i++;
 
     if (i === 9){
