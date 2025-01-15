@@ -17,6 +17,4 @@ while (i < 20){   // este WHILE es un bucle que se ejecuta mientras la condició
     console.log("Estos son los numeros", i);
 }
 
-// que lo que pa no perder la racha!! 
-
-// BUENOS NOCHES A TODOS!!! 
+// En este caso, el bucle se rompe cuando i es igual a 19,
