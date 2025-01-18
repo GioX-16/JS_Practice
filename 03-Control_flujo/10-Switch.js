@@ -12,6 +12,8 @@ switch (accion) {
             break;
 }
 
+// En este ejercicio se utiliza la estructura de control switch para evaluar la variable accion y ejecutar el código correspondiente al caso que coincida con el valor de la variable. En este caso, la variable accion tiene el valor de 'listar', por lo que se imprime en consola 'accion de listar'.
+
 // otro ejemplo para utilizar SWITCH 
 
 let dia = 3;
@@ -42,5 +44,6 @@ switch (dia) {
         console.log('No es un día de la semana');
         break;
 }
+
 
 // En este ejemplo se imprime el día de la semana según el número que se le asigne a la variable dia.
